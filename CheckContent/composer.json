@@ -1,5 +1,5 @@
 {
-    "name": "check/aliyun-php-sdk-green",
+    "name": "check/CheckContent",
     "description": "Aliyun Green SDK for PHP",
     "keywords": [ "aliyun", "green", "sdk" ],
     "type": "library",
