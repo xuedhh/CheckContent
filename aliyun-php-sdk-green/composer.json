@@ -4,6 +4,7 @@
     "keywords": [ "aliyun", "green", "sdk" ],
     "type": "library",
     "license": "Apache-2.0",
+    "version":"dev",
     "homepage": "https://github.com/xuedhh/CheckContent",
     "authors": [
         {

@@ -40,10 +40,9 @@ class Config
         if(self::$loaded) {
             return;
         }
-        echo "我走到这了";die;;
         Autoloader::addAutoloadPath("Api");
         EndpointConfig::load();
-//        LocationService::addEndPoint();
+        LocationService::addEndPoint();
         self::$loaded = true;
     }
 }
