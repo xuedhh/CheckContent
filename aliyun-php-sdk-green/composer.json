@@ -4,11 +4,11 @@
     "keywords": [ "aliyun", "green", "sdk" ],
     "type": "library",
     "license": "Apache-2.0",
-    "homepage": "https://github.com/qinlodestar/aliyun-php-sdk-green",
+    "homepage": "https://github.com/xuedhh/CheckContent",
     "authors": [
         {
             "name": "hh",
-            "homepage": "https://github.com/qinlodestar/aliyun-php-sdk-green"
+            "homepage": "https://github.com/xuedhh/CheckContent"
         }
     ],
     "require": {
